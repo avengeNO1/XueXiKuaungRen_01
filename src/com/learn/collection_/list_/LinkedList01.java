@@ -1,4 +1,4 @@
-package com.learn.list_;
+package com.learn.collection_.list_;
 
 /**
  * @author HuAng
