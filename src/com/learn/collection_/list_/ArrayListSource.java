@@ -7,8 +7,8 @@ import java.util.ArrayList;
  */
 public class ArrayListSource {
     public static void main(String[] args) {
-        ArrayList list = new ArrayList();
-        //ArrayList list = new ArrayList(8);
+//        ArrayList list = new ArrayList();
+        ArrayList list = new ArrayList(8);
         for (int i = 1; i <= 10; i++) {
             list.add(i);
         }
